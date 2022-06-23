@@ -1,2 +1,2 @@
-# Laatours.github.io
-Website
+# latours.github.io
+Latours &amp; Safaris
